@@ -4,7 +4,7 @@
 
 
 ## 🎮 **About the Game**
-**Crab Quest** is an engaging and educational side-scrolling game designed for children aged **4 to 10**. Players take control of a **friendly crab** and navigate the seafloor, jumping over obstacles like **rocks and seaweed** while using a **bubble-blasting claw** to shoot **floating boxes**. Each box contains a **question**, and answering correctly earns points. The **higher the number on the box, the more points you receive**!
+**Max and Zara's Quiz Game** is an engaging and educational side-scrolling game designed for children aged **4 to 10**. Players take control of a **friendly crab** and navigate the seafloor, jumping over obstacles like **rocks and seaweed** while using a **bubble-blasting claw** to shoot **floating boxes**. Each box contains a **question**, and answering correctly earns points. The **higher the number on the box, the more points you receive**!
 
 The game helps kids improve their:
 - **Literacy & Reading skills** 📖
@@ -40,9 +40,9 @@ A big thank you to these amazing creators whose assets helped bring the game to 
 - [Wisnu_ds on Fiverr](https://www.fiverr.com/wisnu_ds)
 
 ## 🚀 **How to Play**
-1. **Move your crab** across the seafloor.
-2. **Jump** over rocks and seaweed.
-3. **Fire bubbles** to hit floating boxes.
+1. **Move your crab** across the seafloor using the right keyboard arrow.
+2. **Jump** over rocks and seaweed using the spacebar.
+3. **Fire bubbles** to hit floating boxes using the up keyboard arrow.
 4. **Answer the questions** in the boxes to earn points!
 5. The higher the number on the box, **the more points you gain**.
 
