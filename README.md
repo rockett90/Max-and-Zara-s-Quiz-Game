@@ -13,6 +13,8 @@ The game helps kids improve their:
 
 It’s designed to be both **fun and educational**, making learning an adventure under the sea! 🌊🐠
 
+[Play the Game HERE](http://games.teamrockett.co.uk/Quiz_Game)
+
 ## 🌍 **Supported Languages**
 Currently, the game is available in **English**, with **Romanian** and **Spanish** in development. More languages will be added in future updates.
 
