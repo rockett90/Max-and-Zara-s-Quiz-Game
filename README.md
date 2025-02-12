@@ -1,5 +1,8 @@
 # 🦀 **Max and Zara's Quiz Game**
 
+![splashscreen1](https://github.com/user-attachments/assets/b268035f-b34f-4984-afd5-ab856bdc3477)
+
+
 ## 🎮 **About the Game**
 **Crab Quest** is an engaging and educational side-scrolling game designed for children aged **4 to 10**. Players take control of a **friendly crab** and navigate the seafloor, jumping over obstacles like **rocks and seaweed** while using a **bubble-blasting claw** to shoot **floating boxes**. Each box contains a **question**, and answering correctly earns points. The **higher the number on the box, the more points you receive**!
 
