@@ -1,4 +1,4 @@
-# 🦀 **Max and Zara's Quiz Game**
+# 🦀 **Max and Zara's Quiz Game** 🦀
 
 ![splashscreen1](https://github.com/user-attachments/assets/b268035f-b34f-4984-afd5-ab856bdc3477)
 
@@ -7,11 +7,11 @@
 **Max and Zara's Quiz Game** is an engaging and educational side-scrolling game designed for children aged **4 to 10**. Players take control of a **friendly crab** and navigate the seafloor, jumping over obstacles like **rocks and seaweed** while using a **bubble-blasting claw** to shoot **floating boxes**. Each box contains a **question**, and answering correctly earns points. The **higher the number on the box, the more points you receive**!
 
 The game helps kids improve their:
-- **Literacy & Reading skills** 📖
-- **Mathematics & Reasoning abilities** 🔢
-- **Typing & Computer proficiency** ⌨️🖱️
+- **Literacy & Reading skills**
+- **Mathematics & Reasoning abilities**
+- **Typing & Computer proficiency**
 
-It’s designed to be both **fun and educational**, making learning an adventure under the sea! 🌊🐠
+It’s designed to be both **fun and educational**, making learning an adventure under the sea!
 
 [Play the Game HERE](http://games.teamrockett.co.uk/Quiz_Game)
 
@@ -23,22 +23,22 @@ Currently, the game is available in **English**, with **Romanian** and **Spanish
 - It runs on **desktop browsers**.
 
 ## 🛠️ **Technologies Used**
-- **JavaScript** 🟨
-- **HTML** 🏗️
-- **CSS** 🎨
-- Developed primarily with **ChatGPT-03-mini** 🤖
+- **JavaScript**
+- **HTML** 
+- **CSS**
+- Developed primarily with **ChatGPT-03-mini**
 
 ## 🎵 **Acknowledgments & Credits**
 A big thank you to these amazing creators whose assets helped bring the game to life:
 
-### 🎨 **Background and Boxes:**
+### **Background and Boxes:**
 - **Underwater Scene:** [OpenGameArt](https://opengameart.org/content/underwater-scene-loopable)
 - **Wooden Box Art:** [OpenGameArt](https://opengameart.org/content/2d-wooden-box)
 
-### 🔊 **Game Music and Sounds:**
+### **Game Music and Sounds:**
 - [ZapSplat](https://www.zapsplat.com)
 
-### 🏆 **Logo Design:**
+### **Logo Design:**
 - [Wisnu_ds on Fiverr](https://www.fiverr.com/wisnu_ds)
 
 ## 🚀 **How to Play**
