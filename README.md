@@ -55,7 +55,7 @@ A big thank you to these amazing creators whose assets helped bring the game to 
 - **Additional challenges and power-ups**.
 
 ## 📩 **Contribute & Support**
-If you’d like to contribute to the project or provide feedback, feel free to **open an issue or submit a pull request**!
+We can always do with more maths and literacy questions for all the available languages contained in [src/data](src/data), please feel free to **open an issue or submit a pull request** for this or anything else in the project.
 
 Happy learning and have fun playing **Max and Zara's Quiz Game!!!** 🦀🎮
 
